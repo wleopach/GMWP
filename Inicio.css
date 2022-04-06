@@ -31,8 +31,6 @@
   .u-section-1 .u-text-2 {
     margin-right: 60px;
   }
-  .no-space-break{
-    white-space:nowrap;
 }
 
 @media (max-width: 991px) {
@@ -46,20 +44,14 @@
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 75vw;
+    font-size: 6rem;
     margin-top: 60px;
-  }
-  .no-space-break{
-    white-space:nowrap;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-text-2 {
-    font-size: 75vw;
-  }
-   .no-space-break{
-    white-space:nowrap;
+    font-size: 4.5rem;
   }
 }
 
@@ -73,12 +65,8 @@
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 75vw;
+    font-size: 3rem;
   }
-  .no-space-break{
-    white-space:nowrap;
-
-
 } .u-section-2 {
   background-image: none;
 }
