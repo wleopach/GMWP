@@ -44,7 +44,7 @@
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 4vw;
+    font-size: 75vw;
     margin-top: 60px;
   }
   .no-space-break{
@@ -54,7 +54,10 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-text-2 {
-    font-size: 4.5rem;
+    font-size: 75vw;
+  }
+   .no-space-break{
+    white-space:nowrap;
   }
 }
 
