@@ -71,8 +71,12 @@
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 3rem;
+    font-size: 75vw;
   }
+  .no-space-break{
+    white-space:nowrap;
+
+
 } .u-section-2 {
   background-image: none;
 }
