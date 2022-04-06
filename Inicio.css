@@ -47,6 +47,9 @@
     font-size: 4vw;
     margin-top: 60px;
   }
+  .no-space-break{
+    white-space:nowrap;
+  }
 }
 
 @media (max-width: 767px) {
