@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/ErlpIPnXAAE6Onn.jfif");
+  background-image: url("images/portada.png");
   background-position: 50% 50%;
 }
 
@@ -44,14 +44,14 @@
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 6rem;
+    font-size: 4vw;
     margin-top: 60px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-text-2 {
-    font-size: 4.5rem;
+    font-size: 4.5vw;
   }
 }
 
